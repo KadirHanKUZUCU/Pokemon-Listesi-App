@@ -1,0 +1,27 @@
+/* advent pro font */
+
+@import url("https://fonts.googleapis.com/css2?family=Advent+Pro:wght@600&display=swap");
+
+body {
+  margin: 20px;
+  font-family: "Advent Pro", sans-serif;
+  background-color: #A4A4A4;
+
+}
+.title {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+.searchBar {
+  background-color: #A4A4A4;
+  height: 25px;
+  
+}
+
+.pokeIdBtn {
+  margin-left: 5px !important;
+}
